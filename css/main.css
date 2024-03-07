@@ -1,0 +1,9 @@
+body {
+    background-color: #000000;
+}
+
+p, h2, h1, h3 {
+    color: #ffffff;
+    text-align: justify;
+    
+}
