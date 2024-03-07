@@ -10,4 +10,5 @@ p, h2, h1, h3 {
 
 #centro {
     display: flex;
+    justify-items: center;
 }
