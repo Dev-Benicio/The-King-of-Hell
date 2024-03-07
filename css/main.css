@@ -7,3 +7,7 @@ p, h2, h1, h3 {
     text-align: justify;
     
 }
+
+h2 {
+    display: flex;
+}
