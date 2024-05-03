@@ -15,5 +15,6 @@ p, h1, h3 {
 }
 
 .centro{
+    display: flex;
     align-items: center;
 }
