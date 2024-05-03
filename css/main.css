@@ -13,3 +13,7 @@ p, h1, h3 {
     display: block;
     justify-items: center;
 }
+
+.centro{
+    align-items: center;
+}
