@@ -20,4 +20,7 @@ p, h1, h3 {
 .centro{
     display: flex;
     align-items: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
 }
