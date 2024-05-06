@@ -13,6 +13,8 @@ p, h1, h3 {
     color: #ffffff;
     display: block;
     justify-items: center;
+    align-items: center;
+    text-align: center;
 }
 
 .centro{
